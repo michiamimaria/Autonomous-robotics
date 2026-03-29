@@ -2,7 +2,7 @@
 
 Autonomous campus delivery demo: an Arduino robot with ultrasonic obstacle avoidance, plus a web control panel to queue delivery destinations. Commands are stored for logging or for a future serial/Wi‑Fi bridge to the robot.
 
-**Repository:** [github.com/michiamimaria/Autonomous-robotics](https://github.com/michiamimaria/Autonomous-robotics)
+**Repository:** [github.com/michiamimaria/autonomous-robotics](https://github.com/michiamimaria/autonomous-robotics)
 
 ---
 
